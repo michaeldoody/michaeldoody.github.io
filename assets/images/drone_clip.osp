@@ -1,0 +1,5783 @@
+{
+ "pixel_ratio": {
+  "den": 1,
+  "num": 1
+ },
+ "clips": [
+  {
+   "perspective_c2_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "scale_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "display": 0,
+   "crop_height": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "shear_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "alpha": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "waveform": false,
+   "rotation": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 180.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "location_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "anchor": 0,
+   "layer": 5000000,
+   "title": "drone_test2.mp4",
+   "volume": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "scale_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "crop_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "effects": [],
+   "time": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "wave_color": {
+    "blue": {
+     "Points": [
+      {
+       "handle_right": {
+        "X": 0.5,
+        "Y": 0.0
+       },
+       "handle_type": 0,
+       "co": {
+        "X": 1.0,
+        "Y": 255.0
+       },
+       "handle_left": {
+        "X": 0.5,
+        "Y": 1.0
+       },
+       "interpolation": 0
+      }
+     ]
+    },
+    "green": {
+     "Points": [
+      {
+       "handle_right": {
+        "X": 0.5,
+        "Y": 0.0
+       },
+       "handle_type": 0,
+       "co": {
+        "X": 1.0,
+        "Y": 123.0
+       },
+       "handle_left": {
+        "X": 0.5,
+        "Y": 1.0
+       },
+       "interpolation": 0
+      }
+     ]
+    },
+    "red": {
+     "Points": [
+      {
+       "handle_right": {
+        "X": 0.5,
+        "Y": 0.0
+       },
+       "handle_type": 0,
+       "co": {
+        "X": 1.0,
+        "Y": 0.0
+       },
+       "handle_left": {
+        "X": 0.5,
+        "Y": 1.0
+       },
+       "interpolation": 0
+      }
+     ]
+    },
+    "alpha": {
+     "Points": [
+      {
+       "handle_right": {
+        "X": 0.5,
+        "Y": 0.0
+       },
+       "handle_type": 0,
+       "co": {
+        "X": 1.0,
+        "Y": 255.0
+       },
+       "handle_left": {
+        "X": 0.5,
+        "Y": 1.0
+       },
+       "interpolation": 0
+      }
+     ]
+    }
+   },
+   "perspective_c1_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "perspective_c2_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "id": "R8QK6IQP68",
+   "channel_filter": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "scale": 1,
+   "crop_width": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "perspective_c3_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "shear_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "channel_mapping": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "end": 22.366666666666667,
+   "location_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "perspective_c4_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "reader": {
+    "pixel_ratio": {
+     "den": 1,
+     "num": 1
+    },
+    "path": "./drone_test2.mp4",
+    "metadata": {
+     "com.android.version": "8.0.0",
+     "handler_name": "SoundHandle",
+     "compatible_brands": "isommp42",
+     "creation_time": "2020-03-04T04:40:50.000000Z",
+     "location": "+42.0582-087.6767/",
+     "rotate": "180",
+     "location-eng": "+42.0582-087.6767/",
+     "major_brand": "mp42",
+     "minor_version": "0",
+     "language": "eng"
+    },
+    "audio_bit_rate": 256020,
+    "has_single_image": false,
+    "video_stream_index": 0,
+    "pixel_format": 0,
+    "sample_rate": 48000,
+    "width": 640,
+    "channels": 2,
+    "video_timebase": {
+     "den": 90000,
+     "num": 1
+    },
+    "height": 480,
+    "audio_timebase": {
+     "den": 48000,
+     "num": 1
+    },
+    "has_audio": true,
+    "channel_layout": 3,
+    "fps": {
+     "den": 2525863,
+     "num": 75780000
+    },
+    "type": "FFmpegReader",
+    "video_length": "842",
+    "interlaced_frame": false,
+    "has_video": true,
+    "video_bit_rate": 417415,
+    "audio_stream_index": 1,
+    "vcodec": "h264",
+    "file_size": "11712258",
+    "duration": 28.031999588012695,
+    "top_field_first": true,
+    "display_ratio": {
+     "den": 3,
+     "num": 4
+    },
+    "acodec": "aac"
+   },
+   "gravity": 4,
+   "perspective_c1_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "perspective_c3_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "image": "@assets/thumbnail/ZYKXG2NJY0.png",
+   "crop_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "file_id": "ZYKXG2NJY0",
+   "has_audio": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "start": 7.766666666666667,
+   "mixing": 0,
+   "has_video": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "position": 0,
+   "duration": 28.031999588012695,
+   "perspective_c4_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   }
+  }
+ ],
+ "channel_layout": 3,
+ "sample_rate": 44100,
+ "import_path": "/home/michaeldoody/Documents/portfolio/michaeldoody.github.io/assets/images",
+ "layers": [
+  {
+   "number": 1000000,
+   "lock": false,
+   "id": "L1",
+   "y": 0,
+   "label": ""
+  },
+  {
+   "number": 2000000,
+   "lock": false,
+   "id": "L2",
+   "y": 0,
+   "label": ""
+  },
+  {
+   "number": 3000000,
+   "lock": false,
+   "id": "L3",
+   "y": 0,
+   "label": ""
+  },
+  {
+   "number": 4000000,
+   "lock": false,
+   "id": "L4",
+   "y": 0,
+   "label": ""
+  },
+  {
+   "number": 5000000,
+   "lock": false,
+   "id": "L5",
+   "y": 0,
+   "label": ""
+  }
+ ],
+ "channels": 2,
+ "progress": [],
+ "height": 720,
+ "version": {
+  "libopenshot": "0.2.5",
+  "openshot-qt": "2.5.1"
+ },
+ "scale": 3,
+ "markers": [],
+ "settings": {},
+ "files": [
+  {
+   "acodec": "aac",
+   "media_type": "video",
+   "path": "./drone_test2.mp4",
+   "metadata": {
+    "com.android.version": "8.0.0",
+    "handler_name": "SoundHandle",
+    "compatible_brands": "isommp42",
+    "creation_time": "2020-03-04T04:40:50.000000Z",
+    "location": "+42.0582-087.6767/",
+    "rotate": "180",
+    "location-eng": "+42.0582-087.6767/",
+    "major_brand": "mp42",
+    "minor_version": "0",
+    "language": "eng"
+   },
+   "audio_bit_rate": 256020,
+   "has_single_image": false,
+   "video_stream_index": 0,
+   "pixel_format": 0,
+   "pixel_ratio": {
+    "den": 1,
+    "num": 1
+   },
+   "width": 640,
+   "video_timebase": {
+    "den": 90000,
+    "num": 1
+   },
+   "channels": 2,
+   "height": 480,
+   "audio_timebase": {
+    "den": 48000,
+    "num": 1
+   },
+   "has_audio": true,
+   "channel_layout": 3,
+   "fps": {
+    "den": 2525863,
+    "num": 75780000
+   },
+   "type": "FFmpegReader",
+   "video_length": "842",
+   "interlaced_frame": false,
+   "has_video": true,
+   "video_bit_rate": 417415,
+   "audio_stream_index": 1,
+   "sample_rate": 48000,
+   "vcodec": "h264",
+   "file_size": "11712258",
+   "duration": 28.031999588012695,
+   "top_field_first": true,
+   "image": "@assets/thumbnail/ZYKXG2NJY0.png",
+   "display_ratio": {
+    "den": 3,
+    "num": 4
+   },
+   "id": "ZYKXG2NJY0"
+  }
+ ],
+ "width": 1280,
+ "fps": {
+  "den": 1,
+  "num": 30
+ },
+ "tick_pixels": 100,
+ "playhead_position": 0,
+ "history": {
+  "redo": [],
+  "undo": [
+   {
+    "key": [
+     "clips",
+     {
+      "id": "ENNB5XWVWH"
+     }
+    ],
+    "type": "update",
+    "old_values": {
+     "waveform": false,
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 180.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "gravity": 4,
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "drone_test2.mp4",
+     "display": 0,
+     "scale": 1,
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 22.8,
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "file_id": "ZYKXG2NJY0",
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "mixing": 0,
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "position": 15.0,
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "path": "./drone_test2.mp4",
+      "metadata": {
+       "com.android.version": "8.0.0",
+       "handler_name": "SoundHandle",
+       "major_brand": "mp42",
+       "compatible_brands": "isommp42",
+       "creation_time": "2020-03-04T04:40:50.000000Z",
+       "rotate": "180",
+       "location-eng": "+42.0582-087.6767/",
+       "location": "+42.0582-087.6767/",
+       "minor_version": "0",
+       "language": "eng"
+      },
+      "audio_bit_rate": 256020,
+      "has_single_image": false,
+      "video_stream_index": 0,
+      "pixel_format": 0,
+      "sample_rate": 48000,
+      "width": 640,
+      "video_timebase": {
+       "den": 90000,
+       "num": 1
+      },
+      "channels": 2,
+      "height": 480,
+      "audio_timebase": {
+       "den": 48000,
+       "num": 1
+      },
+      "has_audio": true,
+      "channel_layout": 3,
+      "fps": {
+       "den": 2525863,
+       "num": 75780000
+      },
+      "type": "FFmpegReader",
+      "video_length": "842",
+      "interlaced_frame": false,
+      "has_video": true,
+      "video_bit_rate": 417415,
+      "audio_stream_index": 1,
+      "vcodec": "h264",
+      "file_size": "11712258",
+      "duration": 28.031999588012695,
+      "top_field_first": true,
+      "display_ratio": {
+       "den": 3,
+       "num": 4
+      },
+      "acodec": "aac"
+     },
+     "effects": [],
+     "duration": 28.031999588012695,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 28.031999588012695,
+     "wave_color": {
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      }
+     },
+     "id": "ENNB5XWVWH"
+    },
+    "partial": false,
+    "value": {
+     "layer": 5000000,
+     "position": 15.066666666666666,
+     "end": 28.031999588012695,
+     "id": "ENNB5XWVWH",
+     "start": 22.8
+    }
+   },
+   {
+    "key": [
+     "clips",
+     {
+      "id": "ENNB5XWVWH"
+     }
+    ],
+    "type": "delete",
+    "old_values": {
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "waveform": false,
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 180.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 28.031999588012695,
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "effects": [],
+     "gravity": 4,
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "id": "ENNB5XWVWH",
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "drone_test2.mp4",
+     "display": 0,
+     "scale": 1,
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 22.8,
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "file_id": "ZYKXG2NJY0",
+     "mixing": 0,
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "position": 15.066666666666666,
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "path": "./drone_test2.mp4",
+      "metadata": {
+       "com.android.version": "8.0.0",
+       "handler_name": "SoundHandle",
+       "major_brand": "mp42",
+       "compatible_brands": "isommp42",
+       "creation_time": "2020-03-04T04:40:50.000000Z",
+       "rotate": "180",
+       "location-eng": "+42.0582-087.6767/",
+       "location": "+42.0582-087.6767/",
+       "minor_version": "0",
+       "language": "eng"
+      },
+      "audio_bit_rate": 256020,
+      "has_single_image": false,
+      "video_stream_index": 0,
+      "pixel_format": 0,
+      "sample_rate": 48000,
+      "width": 640,
+      "video_timebase": {
+       "den": 90000,
+       "num": 1
+      },
+      "channels": 2,
+      "height": 480,
+      "audio_timebase": {
+       "den": 48000,
+       "num": 1
+      },
+      "has_audio": true,
+      "channel_layout": 3,
+      "fps": {
+       "den": 2525863,
+       "num": 75780000
+      },
+      "type": "FFmpegReader",
+      "video_length": "842",
+      "interlaced_frame": false,
+      "has_video": true,
+      "video_bit_rate": 417415,
+      "audio_stream_index": 1,
+      "vcodec": "h264",
+      "file_size": "11712258",
+      "duration": 28.031999588012695,
+      "top_field_first": true,
+      "display_ratio": {
+       "den": 3,
+       "num": 4
+      },
+      "acodec": "aac"
+     },
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "duration": 28.031999588012695,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "wave_color": {
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      }
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     }
+    },
+    "partial": false,
+    "value": null
+   },
+   {
+    "key": [
+     "effects"
+    ],
+    "type": "insert",
+    "old_values": [],
+    "partial": false,
+    "value": {
+     "id": "4A2CAHNNMC",
+     "position": 0,
+     "brightness": {
+      "Points": [
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "interpolation": 0,
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "co": {
+         "X": 1,
+         "Y": 1
+        }
+       },
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "interpolation": 0,
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "co": {
+         "X": 301,
+         "Y": -1
+        }
+       }
+      ]
+     },
+     "start": 0,
+     "title": "Transition",
+     "layer": 4000000,
+     "contrast": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1,
+         "Y": 3
+        }
+       }
+      ]
+     },
+     "type": "Mask",
+     "replace_image": false,
+     "end": 10,
+     "reader": {
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "path": "@transitions/extra/barr_ripple_10.jpg",
+      "metadata": {},
+      "audio_bit_rate": 0,
+      "has_single_image": true,
+      "video_stream_index": -1,
+      "pixel_format": -1,
+      "sample_rate": 0,
+      "width": 720,
+      "channels": 0,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "height": 576,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "has_audio": false,
+      "channel_layout": 4,
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "type": "QtImageReader",
+      "video_length": "108000",
+      "interlaced_frame": false,
+      "has_video": true,
+      "video_bit_rate": 0,
+      "audio_stream_index": -1,
+      "vcodec": "",
+      "file_size": "1658880",
+      "duration": 3600.0,
+      "top_field_first": true,
+      "display_ratio": {
+       "den": 4,
+       "num": 5
+      },
+      "acodec": ""
+     }
+    }
+   },
+   {
+    "key": [
+     "effects",
+     {
+      "id": "4A2CAHNNMC"
+     }
+    ],
+    "type": "update",
+    "old_values": {
+     "position": 0.0,
+     "replace_image": false,
+     "id": "4A2CAHNNMC",
+     "brightness": {
+      "Points": [
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0,
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        }
+       },
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0,
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "co": {
+         "X": 301.0,
+         "Y": -1.0
+        }
+       }
+      ]
+     },
+     "contrast": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": 3.0
+        }
+       }
+      ]
+     },
+     "layer": 5000000,
+     "type": "Mask",
+     "end": 10,
+     "title": "Transition",
+     "start": 0,
+     "reader": {
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "path": "@transitions/extra/barr_ripple_10.jpg",
+      "metadata": {},
+      "audio_bit_rate": 0,
+      "has_single_image": true,
+      "video_stream_index": -1,
+      "pixel_format": -1,
+      "sample_rate": 0,
+      "width": 720,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "channels": 0,
+      "height": 576,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "has_audio": false,
+      "channel_layout": 4,
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "type": "QtImageReader",
+      "video_length": "108000",
+      "interlaced_frame": false,
+      "has_video": true,
+      "video_bit_rate": 0,
+      "audio_stream_index": -1,
+      "vcodec": "",
+      "file_size": "1658880",
+      "duration": 3600.0,
+      "top_field_first": true,
+      "display_ratio": {
+       "den": 4,
+       "num": 5
+      },
+      "acodec": ""
+     }
+    },
+    "partial": false,
+    "value": {
+     "position": 0,
+     "brightness": {
+      "Points": [
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "interpolation": 0,
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "co": {
+         "X": 1,
+         "Y": 1
+        }
+       },
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "interpolation": 0,
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "co": {
+         "X": 301,
+         "Y": -1
+        }
+       }
+      ]
+     },
+     "id": "4A2CAHNNMC",
+     "layer": 4000000,
+     "end": 10,
+     "contrast": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1,
+         "Y": 3
+        }
+       }
+      ]
+     },
+     "start": 0
+    }
+   },
+   {
+    "key": [
+     "effects",
+     {
+      "id": "4A2CAHNNMC"
+     }
+    ],
+    "type": "update",
+    "old_values": {
+     "position": 0,
+     "replace_image": false,
+     "end": 10,
+     "id": "4A2CAHNNMC",
+     "contrast": {
+      "Points": [
+       {
+        "co": {
+         "X": 1,
+         "Y": 3
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "path": "@transitions/extra/barr_ripple_10.jpg",
+      "metadata": {},
+      "audio_bit_rate": 0,
+      "has_single_image": true,
+      "video_stream_index": -1,
+      "pixel_format": -1,
+      "sample_rate": 0,
+      "width": 720,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "channels": 0,
+      "height": 576,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "has_audio": false,
+      "channel_layout": 4,
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "type": "QtImageReader",
+      "video_length": "108000",
+      "interlaced_frame": false,
+      "has_video": true,
+      "video_bit_rate": 0,
+      "audio_stream_index": -1,
+      "vcodec": "",
+      "file_size": "1658880",
+      "duration": 3600.0,
+      "top_field_first": true,
+      "display_ratio": {
+       "den": 4,
+       "num": 5
+      },
+      "acodec": ""
+     },
+     "layer": 4000000,
+     "type": "Mask",
+     "brightness": {
+      "Points": [
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "co": {
+         "X": 1,
+         "Y": 1
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "interpolation": 0
+       },
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "co": {
+         "X": 301,
+         "Y": -1
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "interpolation": 0
+       }
+      ]
+     },
+     "title": "Transition",
+     "start": 0
+    },
+    "partial": false,
+    "value": {
+     "position": 0,
+     "brightness": {
+      "Points": [
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "co": {
+         "X": 1,
+         "Y": 1
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "interpolation": 0
+       },
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "co": {
+         "X": 301,
+         "Y": -1
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "interpolation": 0
+       }
+      ]
+     },
+     "id": "4A2CAHNNMC",
+     "layer": 5000000,
+     "end": 10,
+     "contrast": {
+      "Points": [
+       {
+        "co": {
+         "X": 1,
+         "Y": 3
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 0
+    }
+   },
+   {
+    "key": [
+     "effects",
+     {
+      "id": "4A2CAHNNMC"
+     }
+    ],
+    "type": "update",
+    "old_values": {
+     "position": 0,
+     "replace_image": false,
+     "end": 10,
+     "id": "4A2CAHNNMC",
+     "contrast": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1,
+         "Y": 3
+        }
+       }
+      ]
+     },
+     "reader": {
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "path": "@transitions/extra/barr_ripple_10.jpg",
+      "metadata": {},
+      "audio_bit_rate": 0,
+      "has_single_image": true,
+      "video_stream_index": -1,
+      "pixel_format": -1,
+      "sample_rate": 0,
+      "width": 720,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "channels": 0,
+      "height": 576,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "has_audio": false,
+      "channel_layout": 4,
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "type": "QtImageReader",
+      "video_length": "108000",
+      "interlaced_frame": false,
+      "has_video": true,
+      "video_bit_rate": 0,
+      "audio_stream_index": -1,
+      "vcodec": "",
+      "file_size": "1658880",
+      "duration": 3600.0,
+      "top_field_first": true,
+      "display_ratio": {
+       "den": 4,
+       "num": 5
+      },
+      "acodec": ""
+     },
+     "layer": 5000000,
+     "type": "Mask",
+     "brightness": {
+      "Points": [
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "interpolation": 0,
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "co": {
+         "X": 1,
+         "Y": 1
+        }
+       },
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "interpolation": 0,
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "co": {
+         "X": 301,
+         "Y": -1
+        }
+       }
+      ]
+     },
+     "title": "Transition",
+     "start": 0
+    },
+    "partial": false,
+    "value": {
+     "position": 0,
+     "brightness": {
+      "Points": [
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "interpolation": 0,
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "co": {
+         "X": 1,
+         "Y": 1
+        }
+       },
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "interpolation": 0,
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "co": {
+         "X": 301,
+         "Y": -1
+        }
+       }
+      ]
+     },
+     "id": "4A2CAHNNMC",
+     "layer": 4000000,
+     "end": 10,
+     "contrast": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1,
+         "Y": 3
+        }
+       }
+      ]
+     },
+     "start": 0
+    }
+   },
+   {
+    "key": [
+     "effects",
+     {
+      "id": "4A2CAHNNMC"
+     }
+    ],
+    "type": "delete",
+    "old_values": {
+     "position": 0,
+     "replace_image": false,
+     "end": 10,
+     "id": "4A2CAHNNMC",
+     "contrast": {
+      "Points": [
+       {
+        "co": {
+         "X": 1,
+         "Y": 3
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "path": "@transitions/extra/barr_ripple_10.jpg",
+      "metadata": {},
+      "audio_bit_rate": 0,
+      "has_single_image": true,
+      "video_stream_index": -1,
+      "pixel_format": -1,
+      "sample_rate": 0,
+      "width": 720,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "channels": 0,
+      "height": 576,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "has_audio": false,
+      "channel_layout": 4,
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "type": "QtImageReader",
+      "video_length": "108000",
+      "interlaced_frame": false,
+      "has_video": true,
+      "video_bit_rate": 0,
+      "audio_stream_index": -1,
+      "vcodec": "",
+      "file_size": "1658880",
+      "duration": 3600.0,
+      "top_field_first": true,
+      "display_ratio": {
+       "den": 4,
+       "num": 5
+      },
+      "acodec": ""
+     },
+     "layer": 4000000,
+     "type": "Mask",
+     "brightness": {
+      "Points": [
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "co": {
+         "X": 1,
+         "Y": 1
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "interpolation": 0
+       },
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "co": {
+         "X": 301,
+         "Y": -1
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "interpolation": 0
+       }
+      ]
+     },
+     "title": "Transition",
+     "start": 0
+    },
+    "partial": false,
+    "value": null
+   },
+   {
+    "key": [
+     "effects"
+    ],
+    "type": "insert",
+    "old_values": [],
+    "partial": false,
+    "value": {
+     "id": "69GEWAKW9R",
+     "position": 0,
+     "brightness": {
+      "Points": [
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "co": {
+         "X": 1,
+         "Y": 1
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "interpolation": 0
+       },
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "co": {
+         "X": 301,
+         "Y": -1
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "interpolation": 0
+       }
+      ]
+     },
+     "start": 0,
+     "title": "Transition",
+     "layer": 4000000,
+     "contrast": {
+      "Points": [
+       {
+        "co": {
+         "X": 1,
+         "Y": 3
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "type": "Mask",
+     "replace_image": false,
+     "end": 10,
+     "reader": {
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "path": "@transitions/extra/twirl_16.jpg",
+      "metadata": {},
+      "audio_bit_rate": 0,
+      "has_single_image": true,
+      "video_stream_index": -1,
+      "pixel_format": -1,
+      "sample_rate": 0,
+      "width": 720,
+      "channels": 0,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "height": 576,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "has_audio": false,
+      "channel_layout": 4,
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "type": "QtImageReader",
+      "video_length": "108000",
+      "interlaced_frame": false,
+      "has_video": true,
+      "video_bit_rate": 0,
+      "audio_stream_index": -1,
+      "vcodec": "",
+      "file_size": "1658880",
+      "duration": 3600.0,
+      "top_field_first": true,
+      "display_ratio": {
+       "den": 4,
+       "num": 5
+      },
+      "acodec": ""
+     }
+    }
+   },
+   {
+    "key": [
+     "effects",
+     {
+      "id": "69GEWAKW9R"
+     }
+    ],
+    "type": "update",
+    "old_values": {
+     "position": 4.38,
+     "replace_image": false,
+     "id": "69GEWAKW9R",
+     "brightness": {
+      "Points": [
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0,
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        }
+       },
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0,
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "co": {
+         "X": 301.0,
+         "Y": -1.0
+        }
+       }
+      ]
+     },
+     "contrast": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": 3.0
+        }
+       }
+      ]
+     },
+     "layer": 5000000,
+     "type": "Mask",
+     "end": 10,
+     "title": "Transition",
+     "start": 0,
+     "reader": {
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "path": "@transitions/extra/twirl_16.jpg",
+      "metadata": {},
+      "audio_bit_rate": 0,
+      "has_single_image": true,
+      "video_stream_index": -1,
+      "pixel_format": -1,
+      "sample_rate": 0,
+      "width": 720,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "channels": 0,
+      "height": 576,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "has_audio": false,
+      "channel_layout": 4,
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "type": "QtImageReader",
+      "video_length": "108000",
+      "interlaced_frame": false,
+      "has_video": true,
+      "video_bit_rate": 0,
+      "audio_stream_index": -1,
+      "vcodec": "",
+      "file_size": "1658880",
+      "duration": 3600.0,
+      "top_field_first": true,
+      "display_ratio": {
+       "den": 4,
+       "num": 5
+      },
+      "acodec": ""
+     }
+    },
+    "partial": false,
+    "value": {
+     "position": 0,
+     "brightness": {
+      "Points": [
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "interpolation": 0,
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "co": {
+         "X": 1,
+         "Y": 1
+        }
+       },
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "interpolation": 0,
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "co": {
+         "X": 301,
+         "Y": -1
+        }
+       }
+      ]
+     },
+     "id": "69GEWAKW9R",
+     "layer": 5000000,
+     "end": 10,
+     "contrast": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1,
+         "Y": 3
+        }
+       }
+      ]
+     },
+     "start": 0
+    }
+   },
+   {
+    "key": [
+     "effects",
+     {
+      "id": "69GEWAKW9R"
+     }
+    ],
+    "type": "update",
+    "old_values": {
+     "position": 0,
+     "replace_image": false,
+     "end": 10,
+     "id": "69GEWAKW9R",
+     "contrast": {
+      "Points": [
+       {
+        "co": {
+         "X": 1,
+         "Y": 3
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "path": "@transitions/extra/twirl_16.jpg",
+      "metadata": {},
+      "audio_bit_rate": 0,
+      "has_single_image": true,
+      "video_stream_index": -1,
+      "pixel_format": -1,
+      "sample_rate": 0,
+      "width": 720,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "channels": 0,
+      "height": 576,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "has_audio": false,
+      "channel_layout": 4,
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "type": "QtImageReader",
+      "video_length": "108000",
+      "interlaced_frame": false,
+      "has_video": true,
+      "video_bit_rate": 0,
+      "audio_stream_index": -1,
+      "vcodec": "",
+      "file_size": "1658880",
+      "duration": 3600.0,
+      "top_field_first": true,
+      "display_ratio": {
+       "den": 4,
+       "num": 5
+      },
+      "acodec": ""
+     },
+     "layer": 5000000,
+     "type": "Mask",
+     "brightness": {
+      "Points": [
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "co": {
+         "X": 1,
+         "Y": 1
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "interpolation": 0
+       },
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "co": {
+         "X": 301,
+         "Y": -1
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "interpolation": 0
+       }
+      ]
+     },
+     "title": "Transition",
+     "start": 0
+    },
+    "partial": false,
+    "value": {
+     "position": 0,
+     "brightness": {
+      "Points": [
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "co": {
+         "X": 1,
+         "Y": 1
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "interpolation": 0
+       },
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "co": {
+         "X": 301,
+         "Y": -1
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "interpolation": 0
+       }
+      ]
+     },
+     "id": "69GEWAKW9R",
+     "layer": 4000000,
+     "end": 10,
+     "contrast": {
+      "Points": [
+       {
+        "co": {
+         "X": 1,
+         "Y": 3
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 0
+    }
+   },
+   {
+    "key": [
+     "effects",
+     {
+      "id": "69GEWAKW9R"
+     }
+    ],
+    "type": "delete",
+    "old_values": {
+     "position": 0,
+     "replace_image": false,
+     "end": 10,
+     "id": "69GEWAKW9R",
+     "contrast": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1,
+         "Y": 3
+        }
+       }
+      ]
+     },
+     "reader": {
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "path": "@transitions/extra/twirl_16.jpg",
+      "metadata": {},
+      "audio_bit_rate": 0,
+      "has_single_image": true,
+      "video_stream_index": -1,
+      "pixel_format": -1,
+      "sample_rate": 0,
+      "width": 720,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "channels": 0,
+      "height": 576,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "has_audio": false,
+      "channel_layout": 4,
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "type": "QtImageReader",
+      "video_length": "108000",
+      "interlaced_frame": false,
+      "has_video": true,
+      "video_bit_rate": 0,
+      "audio_stream_index": -1,
+      "vcodec": "",
+      "file_size": "1658880",
+      "duration": 3600.0,
+      "top_field_first": true,
+      "display_ratio": {
+       "den": 4,
+       "num": 5
+      },
+      "acodec": ""
+     },
+     "layer": 4000000,
+     "type": "Mask",
+     "brightness": {
+      "Points": [
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "interpolation": 0,
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "co": {
+         "X": 1,
+         "Y": 1
+        }
+       },
+       {
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0
+        },
+        "handle_type": 0,
+        "interpolation": 0,
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1
+        },
+        "co": {
+         "X": 301,
+         "Y": -1
+        }
+       }
+      ]
+     },
+     "title": "Transition",
+     "start": 0
+    },
+    "partial": false,
+    "value": null
+   },
+   {
+    "key": [
+     "clips"
+    ],
+    "type": "insert",
+    "old_values": [
+     {
+      "waveform": false,
+      "location_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c4_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "rotation": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 180.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "location_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "shear_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "gravity": 4,
+      "alpha": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c1_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c3_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c1_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c2_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "anchor": 0,
+      "scale_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "crop_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "channel_filter": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "layer": 5000000,
+      "scale_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "title": "drone_test2.mp4",
+      "display": 0,
+      "scale": 1,
+      "has_audio": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "crop_width": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "start": 7.766666666666667,
+      "perspective_c3_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "file_id": "ZYKXG2NJY0",
+      "time": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "mixing": 0,
+      "volume": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "crop_height": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "has_video": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "id": "R8QK6IQP68",
+      "shear_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "position": 0,
+      "crop_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "reader": {
+       "pixel_ratio": {
+        "den": 1,
+        "num": 1
+       },
+       "path": "./drone_test2.mp4",
+       "metadata": {
+        "com.android.version": "8.0.0",
+        "handler_name": "SoundHandle",
+        "major_brand": "mp42",
+        "compatible_brands": "isommp42",
+        "creation_time": "2020-03-04T04:40:50.000000Z",
+        "rotate": "180",
+        "location-eng": "+42.0582-087.6767/",
+        "location": "+42.0582-087.6767/",
+        "minor_version": "0",
+        "language": "eng"
+       },
+       "audio_bit_rate": 256020,
+       "has_single_image": false,
+       "video_stream_index": 0,
+       "pixel_format": 0,
+       "sample_rate": 48000,
+       "width": 640,
+       "video_timebase": {
+        "den": 90000,
+        "num": 1
+       },
+       "channels": 2,
+       "height": 480,
+       "audio_timebase": {
+        "den": 48000,
+        "num": 1
+       },
+       "has_audio": true,
+       "channel_layout": 3,
+       "fps": {
+        "den": 2525863,
+        "num": 75780000
+       },
+       "type": "FFmpegReader",
+       "video_length": "842",
+       "interlaced_frame": false,
+       "has_video": true,
+       "video_bit_rate": 417415,
+       "audio_stream_index": 1,
+       "vcodec": "h264",
+       "file_size": "11712258",
+       "duration": 28.031999588012695,
+       "top_field_first": true,
+       "display_ratio": {
+        "den": 3,
+        "num": 4
+       },
+       "acodec": "aac"
+      },
+      "effects": [],
+      "duration": 28.031999588012695,
+      "channel_mapping": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c4_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "end": 22.733333333333334,
+      "wave_color": {
+       "blue": {
+        "Points": [
+         {
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "co": {
+           "X": 1.0,
+           "Y": 255.0
+          },
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          },
+          "interpolation": 0
+         }
+        ]
+       },
+       "green": {
+        "Points": [
+         {
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "co": {
+           "X": 1.0,
+           "Y": 123.0
+          },
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          },
+          "interpolation": 0
+         }
+        ]
+       },
+       "red": {
+        "Points": [
+         {
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "co": {
+           "X": 1.0,
+           "Y": 0.0
+          },
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          },
+          "interpolation": 0
+         }
+        ]
+       },
+       "alpha": {
+        "Points": [
+         {
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "co": {
+           "X": 1.0,
+           "Y": 255.0
+          },
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          },
+          "interpolation": 0
+         }
+        ]
+       }
+      },
+      "perspective_c2_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      }
+     }
+    ],
+    "partial": false,
+    "value": {
+     "waveform": false,
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 180.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "effects": [],
+     "gravity": 4,
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "drone_test2.mp4",
+     "display": 0,
+     "scale": 1,
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 22.433333333333334,
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "file_id": "ZYKXG2NJY0",
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "mixing": 0,
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "id": "NJCO5NZL0Q",
+     "position": 14.633333333333333,
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "path": "./drone_test2.mp4",
+      "metadata": {
+       "com.android.version": "8.0.0",
+       "handler_name": "SoundHandle",
+       "compatible_brands": "isommp42",
+       "creation_time": "2020-03-04T04:40:50.000000Z",
+       "location": "+42.0582-087.6767/",
+       "rotate": "180",
+       "location-eng": "+42.0582-087.6767/",
+       "major_brand": "mp42",
+       "minor_version": "0",
+       "language": "eng"
+      },
+      "audio_bit_rate": 256020,
+      "has_single_image": false,
+      "video_stream_index": 0,
+      "pixel_format": 0,
+      "sample_rate": 48000,
+      "width": 640,
+      "channels": 2,
+      "video_timebase": {
+       "den": 90000,
+       "num": 1
+      },
+      "height": 480,
+      "audio_timebase": {
+       "den": 48000,
+       "num": 1
+      },
+      "has_audio": true,
+      "channel_layout": 3,
+      "fps": {
+       "den": 2525863,
+       "num": 75780000
+      },
+      "type": "FFmpegReader",
+      "video_length": "842",
+      "interlaced_frame": false,
+      "has_video": true,
+      "video_bit_rate": 417415,
+      "audio_stream_index": 1,
+      "vcodec": "h264",
+      "file_size": "11712258",
+      "duration": 28.031999588012695,
+      "top_field_first": true,
+      "display_ratio": {
+       "den": 3,
+       "num": 4
+      },
+      "acodec": "aac"
+     },
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "duration": 28.031999588012695,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 22.733333333333334,
+     "wave_color": {
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      }
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     }
+    }
+   },
+   {
+    "key": [
+     "clips",
+     {
+      "id": "NJCO5NZL0Q"
+     }
+    ],
+    "type": "update",
+    "old_values": {
+     "waveform": false,
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 180.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "gravity": 4,
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "drone_test2.mp4",
+     "display": 0,
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 22.433333333333334,
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "file_id": "ZYKXG2NJY0",
+     "mixing": 0,
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "id": "NJCO5NZL0Q",
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "position": 14.633333333333333,
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "path": "./drone_test2.mp4",
+      "metadata": {
+       "com.android.version": "8.0.0",
+       "handler_name": "SoundHandle",
+       "major_brand": "mp42",
+       "compatible_brands": "isommp42",
+       "creation_time": "2020-03-04T04:40:50.000000Z",
+       "rotate": "180",
+       "location-eng": "+42.0582-087.6767/",
+       "location": "+42.0582-087.6767/",
+       "minor_version": "0",
+       "language": "eng"
+      },
+      "audio_bit_rate": 256020,
+      "has_single_image": false,
+      "video_stream_index": 0,
+      "pixel_format": 0,
+      "sample_rate": 48000,
+      "width": 640,
+      "video_timebase": {
+       "den": 90000,
+       "num": 1
+      },
+      "channels": 2,
+      "height": 480,
+      "audio_timebase": {
+       "den": 48000,
+       "num": 1
+      },
+      "has_audio": true,
+      "channel_layout": 3,
+      "fps": {
+       "den": 2525863,
+       "num": 75780000
+      },
+      "type": "FFmpegReader",
+      "video_length": "842",
+      "interlaced_frame": false,
+      "has_video": true,
+      "video_bit_rate": 417415,
+      "audio_stream_index": 1,
+      "vcodec": "h264",
+      "file_size": "11712258",
+      "duration": 28.031999588012695,
+      "top_field_first": true,
+      "display_ratio": {
+       "den": 3,
+       "num": 4
+      },
+      "acodec": "aac"
+     },
+     "effects": [],
+     "duration": 28.031999588012695,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 22.733333333333334,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "wave_color": {
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      }
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     }
+    },
+    "partial": false,
+    "value": {
+     "waveform": false,
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 180.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "gravity": 4,
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "drone_test2.mp4",
+     "display": 0,
+     "scale": 1,
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 22.433333333333334,
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "file_id": "ZYKXG2NJY0",
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "mixing": 0,
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "id": "NJCO5NZL0Q",
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "position": 14.633333333333333,
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "effects": [],
+     "duration": 28.031999588012695,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 22.733333333333334,
+     "wave_color": {
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      }
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     }
+    }
+   },
+   {
+    "key": [
+     "clips",
+     {
+      "id": "R8QK6IQP68"
+     }
+    ],
+    "type": "update",
+    "old_values": {
+     "waveform": false,
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 180.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "gravity": 4,
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "drone_test2.mp4",
+     "display": 0,
+     "scale": 1,
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 7.766666666666667,
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "file_id": "ZYKXG2NJY0",
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "mixing": 0,
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "id": "R8QK6IQP68",
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "position": 0,
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "path": "./drone_test2.mp4",
+      "metadata": {
+       "com.android.version": "8.0.0",
+       "handler_name": "SoundHandle",
+       "major_brand": "mp42",
+       "compatible_brands": "isommp42",
+       "creation_time": "2020-03-04T04:40:50.000000Z",
+       "rotate": "180",
+       "location-eng": "+42.0582-087.6767/",
+       "location": "+42.0582-087.6767/",
+       "minor_version": "0",
+       "language": "eng"
+      },
+      "audio_bit_rate": 256020,
+      "has_single_image": false,
+      "video_stream_index": 0,
+      "pixel_format": 0,
+      "sample_rate": 48000,
+      "width": 640,
+      "video_timebase": {
+       "den": 90000,
+       "num": 1
+      },
+      "channels": 2,
+      "height": 480,
+      "audio_timebase": {
+       "den": 48000,
+       "num": 1
+      },
+      "has_audio": true,
+      "channel_layout": 3,
+      "fps": {
+       "den": 2525863,
+       "num": 75780000
+      },
+      "type": "FFmpegReader",
+      "video_length": "842",
+      "interlaced_frame": false,
+      "has_video": true,
+      "video_bit_rate": 417415,
+      "audio_stream_index": 1,
+      "vcodec": "h264",
+      "file_size": "11712258",
+      "duration": 28.031999588012695,
+      "top_field_first": true,
+      "display_ratio": {
+       "den": 3,
+       "num": 4
+      },
+      "acodec": "aac"
+     },
+     "effects": [],
+     "duration": 28.031999588012695,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 22.733333333333334,
+     "wave_color": {
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      }
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     }
+    },
+    "partial": false,
+    "value": {
+     "waveform": false,
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 180.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "gravity": 4,
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "drone_test2.mp4",
+     "display": 0,
+     "scale": 1,
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 7.766666666666667,
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "file_id": "ZYKXG2NJY0",
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "mixing": 0,
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "id": "R8QK6IQP68",
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "position": 0,
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "effects": [],
+     "duration": 28.031999588012695,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 22.366666666666667,
+     "wave_color": {
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      },
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "interpolation": 0
+        }
+       ]
+      }
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     }
+    }
+   },
+   {
+    "key": [
+     "clips",
+     {
+      "id": "NJCO5NZL0Q"
+     }
+    ],
+    "type": "delete",
+    "old_values": {
+     "waveform": false,
+     "location_y": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        }
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        }
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": 180.0
+        }
+       }
+      ]
+     },
+     "end": 22.733333333333334,
+     "location_x": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        }
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        }
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        }
+       }
+      ]
+     },
+     "gravity": 4,
+     "alpha": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        }
+       }
+      ]
+     },
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        }
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        }
+       }
+      ]
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        }
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        }
+       }
+      ]
+     },
+     "anchor": 0,
+     "scale_x": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        }
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        }
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        }
+       }
+      ]
+     },
+     "layer": 5000000,
+     "scale_y": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        }
+       }
+      ]
+     },
+     "title": "drone_test2.mp4",
+     "display": 0,
+     "scale": 1,
+     "has_audio": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        }
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        }
+       }
+      ]
+     },
+     "start": 22.433333333333334,
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        }
+       }
+      ]
+     },
+     "file_id": "ZYKXG2NJY0",
+     "mixing": 0,
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        }
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        }
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        }
+       }
+      ]
+     },
+     "position": 14.633333333333333,
+     "crop_y": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        }
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        }
+       }
+      ]
+     },
+     "reader": {
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "path": "./drone_test2.mp4",
+      "metadata": {
+       "com.android.version": "8.0.0",
+       "handler_name": "SoundHandle",
+       "major_brand": "mp42",
+       "compatible_brands": "isommp42",
+       "creation_time": "2020-03-04T04:40:50.000000Z",
+       "rotate": "180",
+       "location-eng": "+42.0582-087.6767/",
+       "location": "+42.0582-087.6767/",
+       "minor_version": "0",
+       "language": "eng"
+      },
+      "audio_bit_rate": 256020,
+      "has_single_image": false,
+      "video_stream_index": 0,
+      "pixel_format": 0,
+      "sample_rate": 48000,
+      "width": 640,
+      "video_timebase": {
+       "den": 90000,
+       "num": 1
+      },
+      "channels": 2,
+      "height": 480,
+      "audio_timebase": {
+       "den": 48000,
+       "num": 1
+      },
+      "has_audio": true,
+      "channel_layout": 3,
+      "fps": {
+       "den": 2525863,
+       "num": 75780000
+      },
+      "type": "FFmpegReader",
+      "video_length": "842",
+      "interlaced_frame": false,
+      "has_video": true,
+      "video_bit_rate": 417415,
+      "audio_stream_index": 1,
+      "vcodec": "h264",
+      "file_size": "11712258",
+      "duration": 28.031999588012695,
+      "top_field_first": true,
+      "display_ratio": {
+       "den": 3,
+       "num": 4
+      },
+      "acodec": "aac"
+     },
+     "effects": [],
+     "duration": 28.031999588012695,
+     "channel_mapping": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        }
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        }
+       }
+      ]
+     },
+     "time": {
+      "Points": [
+       {
+        "interpolation": 2,
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        }
+       }
+      ]
+     },
+     "wave_color": {
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         }
+        }
+       ]
+      },
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         }
+        }
+       ]
+      }
+     },
+     "id": "NJCO5NZL0Q"
+    },
+    "partial": false,
+    "value": null
+   }
+  ]
+ },
+ "export_path": "/home/michaeldoody/Documents/portfolio/michaeldoody.github.io/assets/images",
+ "effects": [],
+ "duration": 300,
+ "profile": "HD 720p 30 fps",
+ "display_ratio": {
+  "den": 9,
+  "num": 16
+ },
+ "id": "BPYGGZ918T"
+}
