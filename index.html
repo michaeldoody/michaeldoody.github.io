@@ -83,6 +83,7 @@
                                 <div class="desc text-left">
                                     <h3 class="title"><a href="#" target="_blank">Whisker Drawing Mechanism</a></h3>
                                     <a href="https://github.com/michaeldoody/whisker_control">Github link</a>
+                                    <img src="assets/images/whisker/drawing_whisker.gif">
                                     <h4>Project Obectives</h4>
                                     <p>The purpose of this project is to design a device that manufactures robotic whisker sensors by drawing polymer plastic filament from an oven. It must be able to inspect the diameter of the whisker and adjust the draw speed accordingly to match a specific geometric profile. This process must be quick and repeatable.</p>
                                     <p>The image below shows how the shape of the filament develops over time. The heated length of the filament is brought to the plastic's glass transition temperature. Then the filament is pulled away from the oven by the drawing mechanism to create a taper.</p>
@@ -124,6 +125,8 @@
                                     <p>This setup allows the device to perform the following closed control loop. In order to acheive the proper whisker taper, the RasPi is provided a desired whisker diameter and sends the Tic a command to speed up or slow down the motor velocity based on the camera's examination of the whisker.</p>
                                     <img src="assets/images/whisker/control_loop.png">
                                     <p></p>
+                                    <p>A 12" hollow cylinder of heavy duty alumnium foil was created for the filament to travel through in order to heat up to its glass transition temperature. The heating element within the heat tray was found using a thermal camera smart phone attachment (see image below), and the aluminum foil cylinder was placed above and in parallel with one fold of the heating element.</p>
+                                    <img src="assets/images/whisker/setup_thermal.jpg">
                                     <p>The finished setup looks like this:</p>
                                     <img src="assets/images/whisker/setup_labeled.png">
                                     <h4>Computer Vision</h4>
@@ -134,6 +137,8 @@
 
                                 </div><!--//desc-->
                             </div>
+
+                            <hr class="divider" />
 
                             <div class="desc text-left">
                                 <h3 class="title"><a href="#" target="_blank">Quadrotor Drone</a></h3>
