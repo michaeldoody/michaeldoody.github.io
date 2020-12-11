@@ -76,44 +76,67 @@
                             <div class="item featured text-center">
 
                                 <div class="desc text-left">
-                                    <h3 class="title"><a href="#" target="_blank">Quadrotor Drone</a></h3>
-                                    <p>This quadrotor was designed using a F450 frame, CC3D flight controller, and 1000KV brushless motors. The flight controller was programmed using the open source program, LibrePilot. Currently, this drone can be flown by an RC trasmitter, but the next step is to implement autonomous flight. This will be done by connecting the flight controller to a Raspberry Pi via USB and executing a program that sends the drone on a predetermined flight path.</p>
-                                    <a href="https://github.com/michaeldoody/quadcopter_winter_project">Github repo link</a>
+                                    <h3 class="title"><a href="#" target="_blank">Whisker Drawing Mechanism</a></h3>
+                                    <a href="https://github.com/michaeldoody/whisker_control">Github link</a>
+                                    <h4>Project Obectives</h4>
+                                    <p>The purpose of this project is to design a device that manufactures robotic whisker sensors by drawing polymer plastic filament from an oven. It must be able to inspect the diameter of the whisker and adjust the draw speed accordingly to match a specific geometric profile. This process must be quick and repeatable.</p>
+                                    <p>The image below shows how the shape of the filament develops over time. The heated length of the filament is brought to the plastic's glass transition temperature. Then the filament is pulled away from the oven by the drawing mechanism to create a taper.</p>
+                                    <img src="assets/images/whisker/whisker_drawing.png" alt="Whisker Drawing">
                                     <p></p>
-                                    <video controls preload="metadata" style=" width:448px;  height:336px;">
-                                      <source src="assets/images/drone_clip.mp4" type="video/mp4">
-                                        Your browser does not support the HTML5 video tag.
-                                      </video><br />
-                                      <p></p>
-                                      <h4>Component List:</h4>
-                                      <ul>
-                                        <li>F450 Quadcopter Frame Kit</li>
-                                        <li>4 Propellers (plus extras)</li>
-                                        <li>4 1000KV Brushless Motors</li>
-                                        <li>4 30A Electronic Speed Controllers</li>
-                                        <li>CC3D Flight Controller</li>
-                                        <li>2.4GHz 6 Channel Digital Transmitter and Receiver</li>
-                                        <li>2700mAh 3s LiPo Battery</li>
-                                      </ul>
-                                      <p></p>
-                                      <h4>Block Diagram</h4>
-                                      <img src="assets/images/block_diagram.png" alt="Block Diagram">
-                                      <p></p>
-                                      <h4>Receiver and Motor Diagram</h4>
-                                      <img src="assets/images/motor_receiver_crop.png" alt="Receiver and Motor">
+                                    <p>The artificial whisker geometric profile imitates that of a biological whisker at a 5x scale (see image below). These dimensions drove the design specifications for the drawing mechanism.</p>
+                                    <img src="assets/images/whisker/whisker_geometry.png" alt="Whisker Geometry">
+
+                                    <p></p>
+                                    <h4>Component List:</h4>
+                                    <ul>
+                                    <li>F450 Quadcopter Frame Kit</li>
+                                    <li>4 Propellers (plus extras)</li>
+                                    <li>4 1000KV Brushless Motors</li>
+                                    <li>4 30A Electronic Speed Controllers</li>
+                                    <li>CC3D Flight Controller</li>
+                                    <li>2.4GHz 6 Channel Digital Transmitter and Receiver</li>
+                                    <li>2700mAh 3s LiPo Battery</li>
+                                    </ul>
+                                    <p></p>
+                                    <h4>Block Diagram</h4>
+                                    <img src="assets/images/block_diagram.png" alt="Block Diagram">
+                                    <p></p>
+                                    <h4>Receiver and Motor Diagram</h4>
+                                    <img src="assets/images/motor_receiver_crop.png" alt="Receiver and Motor">
 
 
                                 </div><!--//desc-->
                             </div>
 
-                            <hr class="divider" />
-
                             <div class="desc text-left">
-                                <h3 class="title"><a href="#" target="_blank">Tic Tac Toe Arm</a></h3>
-                                <p>The Tic Tac Toe Arm is a Sawyer robot that is programmed to play a game of Tic Tac Toe against a human on a dry erase board. The robot arm is programmed to execute three objectives: read the current board state, compute its next optimal move, and perform the trajectory needed to draw an X in that board space.</p>
-                                  <img class="img-responsive project-image" src="assets/images/tic_tac_toe_arm.gif" alt="Tic Tac Toe Arm" />
-                            </div><!--//desc-->
+                                <h3 class="title"><a href="#" target="_blank">Quadrotor Drone</a></h3>
+                                <p>This quadrotor was designed using a F450 frame, CC3D flight controller, and 1000KV brushless motors. The flight controller was programmed using the open source program, LibrePilot. Currently, this drone can be flown by an RC trasmitter, but the next step is to implement autonomous flight. This will be done by connecting the flight controller to a Raspberry Pi via USB and executing a program that sends the drone on a predetermined flight path.</p>
+                                <a href="https://github.com/michaeldoody/quadcopter_winter_project">Github repo link</a>
+                                <p></p>
+                                <video controls preload="metadata" style=" width:448px;  height:336px;">
+                                  <source src="assets/images/drone_clip.mp4" type="video/mp4">
+                                    Your browser does not support the HTML5 video tag.
+                                  </video><br />
+                                  <p></p>
+                                  <h4>Component List:</h4>
+                                  <ul>
+                                    <li>F450 Quadcopter Frame Kit</li>
+                                    <li>4 Propellers (plus extras)</li>
+                                    <li>4 1000KV Brushless Motors</li>
+                                    <li>4 30A Electronic Speed Controllers</li>
+                                    <li>CC3D Flight Controller</li>
+                                    <li>2.4GHz 6 Channel Digital Transmitter and Receiver</li>
+                                    <li>2700mAh 3s LiPo Battery</li>
+                                  </ul>
+                                  <p></p>
+                                  <h4>Block Diagram</h4>
+                                  <img src="assets/images/block_diagram.png" alt="Block Diagram">
+                                  <p></p>
+                                  <h4>Receiver and Motor Diagram</h4>
+                                  <img src="assets/images/motor_receiver_crop.png" alt="Receiver and Motor">
 
+
+                            </div><!--//desc-->
 
                         </div><!--//content-->
                     </div><!--//section-inner-->
@@ -123,6 +146,15 @@
                     <div class="section-inner">
                         <h2 class="heading">Other Projects</h2>
                         <div class="content">
+
+                            <div class="desc text-left">
+                                <h3 class="title"><a href="#" target="_blank">Tic Tac Toe Arm</a></h3>
+                                <p>The Tic Tac Toe Arm is a Sawyer robot that is programmed to play a game of Tic Tac Toe against a human on a dry erase board. The robot arm is programmed to execute three objectives: read the current board state, compute its next optimal move, and perform the trajectory needed to draw an X in that board space.</p>
+                                  <img class="img-responsive project-image" src="assets/images/tic_tac_toe_arm.gif" alt="Tic Tac Toe Arm" />
+                            </div><!--//desc-->
+
+                            <hr class="divider" />
+
                             <div class="item">
                                 <h3 class="title"><a href="#">Senior Capstone Project</a></h3>
 
@@ -138,17 +170,6 @@
                                 <p class="summary">The Northwestern Robotics Competition is an annual event that can be taken as a course with a different objective each year. In 2016, teams were challenged to create a robot that can navigate an obstacle course made of foam pool noodles that sat on a raised platform. On the opposite end of the course was a plastic cup wrapped in reflective tape that sits on a small, wheeled platform that was remote controlled by another team. The robot needed to autonomously detect the cup and knock it over.
                                 My team designed a three-wheeled robot with a propeller at the head to knock over the cup. The propeller was made from a high RPM motor, a 3D printed coupler, and two large zip ties. Laser and photodiode pairings were used to detect the cup as well as detect if the robot was near the edge of the obstacle course.</p>
                                 <img class="img-responsive project-image" src="assets/images/comp.png" alt="competition" />
-                            </div><!--//item-->
-
-                            <hr class="divider" />
-
-                            <div class="item row">
-                                <img class="img-responsive project-image" src="assets/images/ball_follow.png" alt="Picture TBD" />
-                                </a>
-                                <div class="desc col-md-8 col-sm-8 col-xs-12">
-                                    <h3 class="title"><a href="#" target="_blank">Ball-Following Robot</a></h3>
-                                    <p>The goal of this project was to build and program a two degree of freedom mechanism that uses a camera to track and follow a moving object. This robot was built using two servo motors, a pan/tilt bracket kit, and an 8 megapixel webcamera. The Python code used image masking and contour detection to locate a blue ball in the camera's line of sight. After this process, the motors maneuver to center the camera on the ball.</p>
-                                </div><!--//desc-->
                             </div><!--//item-->
 
                         </div><!--//content-->
