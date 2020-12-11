@@ -34,7 +34,7 @@
     <![endif]-->
     <style>
         img {
-          max-width: 600px;
+          max-width: 800px;
           height: auto;
         }
     </style>
@@ -102,20 +102,20 @@
                                     <p></p>
                                     <h4>Materials</h4>
                                     <ul>
-                                    <li>V-Slot® NEMA 17 Linear Actuator Bundle (Lead Screw), 400m stroke</li>
-                                    <li>NEMA 17 Stepper Motor</li>
-                                    <li>Tic 36v4 USB Multi-Interface High-Power Stepper Motor Controller</li>
-                                    <li>Raspberry Pi 4</li>
-                                    <li>Raspberry Pi High Quality Camera</li>
-                                    <li>Monocular Max 300x Zoom C-Mount Glass Lens</li>
-                                    <li>Microscope Camera Table Stand</li>
-                                    <li>Adjustable LED Ring Light</li>
-                                    <li>Electric Warming Tray with Adjustable Temperature Control</li>
-                                    <li>24V 4A 100W Power Supply Adapter</li>
-                                    <li>Cable Assembly 2.1mm ID, 5.5mm OD Jack to Wire Leads</li>
-                                    <li>FLIR ONE Gen 3 Thermal Camera Smart Phone Attachment</li>
-                                    <li>Microscope Camera Calibration Slide Ruler</li>
-                                    <li>Low-Friction Tape Made with Teflon</li>
+                                        <li>V-Slot® NEMA 17 Linear Actuator Bundle (Lead Screw), 400m stroke</li>
+                                        <li>NEMA 17 Stepper Motor</li>
+                                        <li>Tic 36v4 USB Multi-Interface High-Power Stepper Motor Controller</li>
+                                        <li>Raspberry Pi 4</li>
+                                        <li>Raspberry Pi High Quality Camera</li>
+                                        <li>Monocular Max 300x Zoom C-Mount Glass Lens</li>
+                                        <li>Microscope Camera Table Stand</li>
+                                        <li>Adjustable LED Ring Light</li>
+                                        <li>Electric Warming Tray with Adjustable Temperature Control</li>
+                                        <li>24V 4A 100W Power Supply Adapter</li>
+                                        <li>Cable Assembly 2.1mm ID, 5.5mm OD Jack to Wire Leads</li>
+                                        <li>FLIR ONE Gen 3 Thermal Camera Smart Phone Attachment</li>
+                                        <li>Microscope Camera Calibration Slide Ruler</li>
+                                        <li>Low-Friction Tape Made with Teflon</li>
                                     </ul>
                                     <p></p>
                                     <h4>System Design</h4>
@@ -126,7 +126,11 @@
                                     <p></p>
                                     <p>The finished setup looks like this:</p>
                                     <img src="assets/images/whisker/setup_labeled.png">
-
+                                    <h4>Computer Vision</h4>
+                                    <p>In order to accurately measure the whisker diameter, the camera and lens must be first focused on a calibration slide's 1mm x 1mm reticle stacked on top of a sample of the plastic filament, as shown in the image below.</p>
+                                    <img src="assets/images/whisker/whisker_calibration.png">
+                                    <p>Next, I used the script cam_calibration.cpp, which can be found on my GitHub, to measure the reticle in pixels and calculate pixels/μm (displayed below). This project is still a work in progress, so the next steps are to finish the script whisker.cpp which takes this pixels/mm constant, measures the diameter of the whisker directly outside the oven, and performs the velocity control loop.</p>
+                                    <img src="assets/images/whisker/cam_calibration.png">
 
                                 </div><!--//desc-->
                             </div>
