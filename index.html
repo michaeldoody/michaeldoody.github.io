@@ -118,11 +118,14 @@
                                     <li>Low-Friction Tape Made with Teflon</li>
                                     </ul>
                                     <p></p>
-                                    <h4>Block Diagram</h4>
-                                    <img src="assets/images/block_diagram.png" alt="Block Diagram">
+                                    <h4>System Design</h4>
+                                    <p>A block diagram of the system is depicted below. The Raspberry Pi controls the velocity of the lead screw linear actuator via the Tic motor controller. A High Quality Raspberry Pi camera is connected to the RasPi.</p>
+                                    <img src="assets/images/whisker/block_diagram.png" alt="Block Diagram">
+                                    <p>This setup allows the device to perform the following closed control loop. In order to acheive the proper whisker taper, the RasPi is provided a desired whisker diameter and sends the Tic a command to speed up or slow down the motor velocity based on the camera's examination of the whisker.</p>
+                                    <img src="assets/images/whisker/control_loop.png">
                                     <p></p>
-                                    <h4>Receiver and Motor Diagram</h4>
-                                    <img src="assets/images/motor_receiver_crop.png" alt="Receiver and Motor">
+                                    <p>The finished setup looks like this:</p>
+                                    <img src="assets/images/whisker/setup_labeled.png">
 
 
                                 </div><!--//desc-->
