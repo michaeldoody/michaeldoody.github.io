@@ -32,7 +32,12 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-
+    <style>
+        img {
+          max-width: 450px;
+          height: auto;
+        }
+    </style>
 </head>
 
 <body>
@@ -85,9 +90,17 @@
                                     <p></p>
                                     <p>The artificial whisker geometric profile imitates that of a biological whisker at a 5x scale (see image below). These dimensions drove the design specifications for the drawing mechanism.</p>
                                     <img src="assets/images/whisker/whisker_geometry.png" alt="Whisker Geometry">
-
                                     <p></p>
-                                    <h4>Component List:</h4>
+                                    <h4>Design Specifications</h4>
+                                    <p>Given the dimensions of an artificial whisker, the mechanism must:</p>
+                                    <ul>
+                                        <li>Include a linear actuator that can draw a 250 mm whisker in approx. 2 mins</li>
+                                        <li>Acheive a velocity range of 0.01 mm/s - 10 mm/s</li>
+                                        <li>Include velocity feedback control to regulate the whisker taper</li>
+                                        <li>Have computer vision to inspect the whisker diameter in micrometers</li>
+                                    </ul>
+                                    <p></p>
+                                    <h4>Materials</h4>
                                     <ul>
                                     <li>F450 Quadcopter Frame Kit</li>
                                     <li>4 Propellers (plus extras)</li>
