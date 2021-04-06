@@ -51,7 +51,6 @@
                 <ul class="social list-inline">
                     <li><a href="https://www.linkedin.com/in/michael-doody-91b48772/"><i class="fa fa-linkedin"></i></a></li>
                     <li><a href="https://github.com/michaeldoody"><i class="fa fa-github-alt"></i></a></li>
-                    <li><a href="https://www.facebook.com/michael.doody.900"><i class="fa fa-facebook"></i></a></li>
                 </ul>
             </div><!--//profile-->
             <a class="btn btn-cta-primary pull-right" href="mailto:michaeldoody2017@u.northwestern.edu" target="_blank"><i class="fa fa-paper-plane"></i> Contact Me</a>
@@ -84,7 +83,7 @@
                                     <h3 class="title"><a href="#" target="_blank">Whisker Drawing Mechanism</a></h3>
                                     <a href="https://github.com/michaeldoody/whisker_control">Github link</a>
                                     <p></p>
-                                    <img src="assets/images/whisker/drawing_whisker.gif">
+                                    <img src="assets/images/whisker/whisker.gif">
                                     <h4>Project Objectives</h4>
                                     <p>The purpose of this project is to design a device that manufactures robotic whisker sensors by drawing polymer plastic filament from an oven. It must be able to inspect the diameter of the whisker and adjust the draw speed accordingly to match a specific geometric profile. This process must be quick and repeatable.</p>
                                     <p>The image below shows how the shape of the filament develops over time. The heated length of the filament is brought to the plastic's glass transition temperature. Then the filament is pulled away from the oven by the drawing mechanism to create a taper.</p>
@@ -129,12 +128,14 @@
                                     <p>A 12" long, triple-layered hollow cylinder of heavy duty alumnium foil was created for the filament to travel through in order to heat up to its glass transition temperature. Low-friction tape made with Teflon was taped along the inside wall of the cylinder to allow the filament smoother movement. The heating element within the heat tray was found using a thermal camera smart phone attachment (see image below), and the aluminum foil cylinder was placed above and in parallel with one fold of the heating element.</p>
                                     <img src="assets/images/whisker/setup_thermal.jpg">
                                     <p>The finished setup looks like this:</p>
-                                    <img src="assets/images/whisker/setup_labeled.png">
+                                    <img src="assets/images/whisker/setup.png">
                                     <h4>Computer Vision</h4>
-                                    <p>In order to accurately measure the whisker diameter, the camera and lens must be first focused on a calibration slide's 1mm x 1mm reticle stacked on top of a sample of the plastic filament, as shown in the image below.</p>
+                                    <p>In order to accurately measure the whisker diameter, the camera and lens must be first focused on a calibration slide's 1mm x 1mm reticle while the slide is stacked on top of a sample of the plastic filament, as shown in the image below. The edges of the whisker need to be as focused as possible while the reticle is still visible, yet blurry.</p>
                                     <img src="assets/images/whisker/whisker_calibration.png">
-                                    <p>Next, I used the script cam_calibration.cpp, which can be found on my GitHub, to measure the reticle in pixels and calculate pixels/μm (displayed below). This project is still a work in progress, so the next step is to finish the script whisker.cpp which takes the pixels/μm constant, measures the diameter of the whisker section that is directly outside the oven, and performs the velocity control loop.</p>
-                                    <img src="assets/images/whisker/cam_calibration.png">
+                                    <p>Next, in the script <code>cam_calibration.cpp</code>, the user drags and drops a rectangle around the reticle (displayed below), and the program calculates pixels/μm. The resulting number is saved to a text file where the whisker drawing program, <code>whisker.cpp</code>, can access this number when it is measuring the whisker diameter.</p>
+                                    <img src="assets/images/whisker/roi.png">
+                                    <h4>Whisker Drawing</h4>
+                                    <p>Each run of the whisker drawing program takes approximately 3 minutes and is separated into two phases. The heating phase consists of feeding a length of 3D plastic filament through the oven, securing one end of the filament to the linear actuator and the other end to a vice attached to the table, and allowing the filament to heat up to its glass transition temperature for 2 minutes. Once the filament is done heating up, the user presses the Enter key to start the drawing phase. In this phase, the actuator pulls the filament according to a fixed velocity equation. The camera measures the whikser diameter directly outside the oven and adjusts the motor velocity proportionately to acheive the desired geometric whisker profile.</p>
 
                                 </div><!--//desc-->
                             </div>
